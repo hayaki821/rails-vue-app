@@ -4,3 +4,6 @@ module.exports = {
     loader: 'vue-loader'
   }]
 }
+
+
+const extractCSS = false
